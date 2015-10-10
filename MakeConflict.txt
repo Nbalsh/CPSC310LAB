@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Make a conflict?!?!?
 
 What is this??DAS??
@@ -9,3 +10,6 @@ BHWHJAJNHJA?DAS?DSA??!?!?!?
 YAAAAAYYYYYYYYY
 
 hello world
+=======
+(dkjsad)!
+>>>>>>> fabdfd789096a1dc1182b31ad92238c3e46533bb
